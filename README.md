@@ -87,6 +87,7 @@ ToC split by SaaS and OSS (Open Source Software):
       - [Domo](https://www.domo.com/)
       - [Focuus](http://www.focuus.com/)
       - [Holistics](https://www.holistics.io/)
+      - [MicroStrategy](https://www.microstrategy.com/)
       - [Mode Analytics](https://modeanalytics.com/)
       - [Pentaho](https://www.pentaho.com)
       - [Periscope](https://www.periscopedata.com/)
@@ -338,6 +339,7 @@ ToC split by SaaS and OSS (Open Source Software):
     - [Canvas](https://canvasapp.com/)
     - [Equals](https://equals.app/)
     - [rilldata](https://www.rilldata.com/)
+    - [knack](https://www.knack.com/)
 
   - **OSS**
     - [nocodb](https://www.nocodb.com/)
